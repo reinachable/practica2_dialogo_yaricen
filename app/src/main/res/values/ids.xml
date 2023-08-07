@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnVerRegistrosExpositor" type="id" />
+    <item name="btnRegistrosAsistente" type="id" />
+    <item name="btnSalirBorrar" type="id" />
+    <item name="btnSalir" type="id" />
+    <item name="txtRegistros" type="id" />
+</resources>

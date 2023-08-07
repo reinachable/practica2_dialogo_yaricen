@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">practica_dialogos</string>
+    <string name="Registrar">Registrar</string>
+    <string name="Borrardatos">Borrar Datos y Salir</string>
+    <string name="verRegistrosExpo">Ver Registros de Expositor</string>
+    <string name="verRegistrosAsist">Ver Registros de Asistente</string>
+    <string name="salir">Salir</string>
+</resources>
